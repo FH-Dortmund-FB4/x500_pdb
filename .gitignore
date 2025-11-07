@@ -40,3 +40,7 @@ fp-info-cache
 *.raw
 .svg2shenzhen-cache
 *.lck
+
+fp-lib-table
+sym-lib-table
+x500_pdb-backups/
