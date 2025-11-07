@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LM21305SQ_NOPB")(type "KiCad")(uri "${KIPRJMOD}/imports/LM21305/LM21305SQ_NOPB.kicad_sym")(options "")(descr ""))
+  (lib (name "easyeda2kicad")(type "KiCad")(uri "${KIPRJMOD}/imports/easyeda2kicad.kicad_sym")(options "")(descr ""))
+)

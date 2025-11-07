@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "easyeda2kicad")(type "KiCad")(uri "${KIPRJMOD}/imports/easyeda2kicad.pretty")(options "")(descr ""))
+  (lib (name "LM21305")(type "KiCad")(uri "${KIPRJMOD}/imports/LM21305.pretty")(options "")(descr ""))
+)
