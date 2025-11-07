@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM21305SQ_NOPB
+D 3-18V, 5A, Current Mode Synchronous Buck Regulator with Adjustable Frequency
+K
+F https://www.ti.com/lit/ds/symlink/lm21305.pdf?ts=1634729861150&ref_url=https%253A%252F%252Fwww.ti.com%252Fstore%252Fti%252Fen%252Fp%252Fproduct%252F%253Fp%253DLM21305SQ%252FNOPB
+$ENDCMP
+#
+#End Doc Library
