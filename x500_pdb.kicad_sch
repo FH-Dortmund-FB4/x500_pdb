@@ -6530,7 +6530,7 @@
 		(at 123.19 172.72 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6639,6 +6639,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 83.82 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "81-GRM32ER61E226KE15"
 			(at 83.82 48.26 0)
 			(effects
 				(font
@@ -7668,6 +7677,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" "594-MCT06030C1003FP5"
+			(at 185.42 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e3602293-5a2c-438c-b992-6ecc6646bdf0")
 		)
@@ -8267,6 +8285,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 96.52 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "81-GCJ31MR71E104KA1L"
 			(at 96.52 48.26 0)
 			(effects
 				(font
@@ -8890,6 +8917,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" "594-MCT06030C1003FP5"
+			(at 176.53 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8898562f-ba78-465e-b14a-995ce26baccb")
 		)
@@ -9176,7 +9212,7 @@
 		(at 101.6 172.72 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -9516,7 +9552,7 @@
 		(at 144.78 172.72 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -9692,6 +9728,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 72.39 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "80-T495D476K25ATE120"
 			(at 72.39 48.26 0)
 			(effects
 				(font
