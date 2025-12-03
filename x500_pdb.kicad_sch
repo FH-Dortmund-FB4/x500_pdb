@@ -6398,7 +6398,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "0db21665-8d96-4a8a-9da5-a7a111fb84b9")
 		(property "Reference" "C_OUT1"
@@ -6437,6 +6437,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 97.79 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" " 81-GRM31CR61A476KE5L "
+			(at 97.79 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6793,6 +6802,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" " 306-S3BPHKSLFSN "
+			(at 259.08 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d47dff73-46d1-4617-bba8-6ed01c63ecdd")
 		)
@@ -6865,6 +6883,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" " 756-WCR1206-10KFA "
+			(at 163.83 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "724f844b-f06a-42f7-9904-50a7edee2ca1")
 		)
@@ -6926,6 +6953,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 158.75 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" " 187-CL10B105KA8NNWC "
+			(at 158.75 44.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7086,7 +7122,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "36da65f1-fb4b-42b3-9c97-dcb48a9fd2b6")
 		(property "Reference" "C_OUT2"
@@ -7125,6 +7161,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 90.17 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" " 81-GRM31CR61A476KE5L "
+			(at 90.17 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7202,6 +7247,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" " 660-RN73H1JT7232F100 "
+			(at 157.48 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c47aff9c-5c00-4e25-8699-bad77fd5ecca")
 		)
@@ -7262,6 +7316,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 184.15 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" " 581-06033C101JAT4A "
+			(at 184.15 105.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7331,6 +7394,15 @@
 			)
 		)
 		(property "Description" "Inductor"
+			(at 110.49 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" " 652-SRP7050WA-3R3M "
 			(at 110.49 93.98 0)
 			(effects
 				(font
@@ -7466,6 +7538,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 259.08 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" " 306-S3BPHKSLFSN "
 			(at 259.08 87.63 0)
 			(effects
 				(font
@@ -8022,6 +8103,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" " 306-S2BPHKSLFSNPP "
+			(at 252.73 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "df709bef-6436-43eb-ab87-86c5a2ef5155")
 		)
@@ -8369,6 +8459,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" " 581-0603YC332JAT2A "
+			(at 143.51 127 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "addb9a27-5177-4ba9-a5c5-b661bbbf50f4")
 		)
@@ -8439,6 +8538,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" " 80-C0603X105J4R "
+			(at 165.1 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7b6c177a-6ee5-4644-8b5f-5dfe4e14daef")
 		)
@@ -8501,6 +8609,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 173.99 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" " 80-C0603X104J4RECAUT "
 			(at 173.99 88.9 0)
 			(effects
 				(font
@@ -8645,6 +8762,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" " 306-S2BPHKSLFSNPP "
+			(at 252.73 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "89c14a4f-015f-4368-b118-5da948d20b09")
 		)
@@ -8781,6 +8907,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" " 306-S2BPHKSLFSNPP "
+			(at 252.73 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bccec5cf-6f4f-49b8-a1a1-75cf17655f29")
 		)
@@ -8843,6 +8978,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 143.51 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" " 652-CR0603FX-8201ELF "
+			(at 143.51 135.89 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9327,6 +9471,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" " 652-SF-1206F250M-2 "
+			(at 54.61 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6cac67c4-0443-4d1b-9da8-447660b4e779")
 		)
@@ -9389,6 +9542,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 157.48 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" " 71-CRCW060310K0FKEI "
 			(at 157.48 140.97 0)
 			(effects
 				(font
@@ -9465,6 +9627,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" " 667-ERJ-3GEYJ1R0V "
+			(at 139.7 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e82b2bfe-7560-426e-a642-849078cdf329")
 		)
@@ -9525,6 +9696,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 118.11 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" " 80-C0603X104J4RECAUT "
+			(at 118.11 59.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
