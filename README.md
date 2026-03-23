@@ -1,5 +1,5 @@
 # LM21305-Based Power Distribution Board
-
+![Board preview](x500_pdb.png)
 
 ## Overview
 
